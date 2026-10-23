@@ -1,5 +1,9 @@
 # 摄影师一键选图 · 北斗 Photo Picker
 
+[![Tests](https://github.com/BY-BINZ/beidou-photo-picker/actions/workflows/tests.yml/badge.svg)](https://github.com/BY-BINZ/beidou-photo-picker/actions/workflows/tests.yml)
+
+**[下载 Windows 免费测试版 v0.1.0](https://github.com/BY-BINZ/beidou-photo-picker/releases/tag/v0.1.0)** · [查看开发路线](ROADMAP.md)
+
 **给电商摄影师和摄影工作室的小图找原图工具：按文件名或编号匹配 JPG / RAW，并保留客户已经整理好的文件夹结构。**
 
 [免费版功能](#免费版现在能做什么) · [使用方法](#开始使用) · [版本区别](docs/EDITIONS.md) · [开发路线](ROADMAP.md) · [反馈问题](../../issues)
@@ -23,7 +27,7 @@
 
 ### Windows 桌面版
 
-在本仓库 **Releases** 中查看可用的构建文件和对应校验值。没有附件时，请使用以下源码方式，不下载来历不明的同名安装包。
+从 [v0.1.0 发布页](https://github.com/BY-BINZ/beidou-photo-picker/releases/tag/v0.1.0) 下载 Windows ZIP，解压后运行 `BeidouPhotoPicker-Free.exe`。发布页附有校验值。不需要安装 Python；源码运行方式见下文。
 
 ### 从源码启动
 
