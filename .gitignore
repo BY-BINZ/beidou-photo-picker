@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+*.exe
+*.zip
+*.part
+*.sqlite*
+.env*
+config.json
+.license
+.machine_id
+.install_date
+*_export_*.jsonl
+private/
